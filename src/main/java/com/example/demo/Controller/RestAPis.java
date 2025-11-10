@@ -22,5 +22,8 @@ public class RestAPis {
      public String gt(){
         return "This is not the authenticated one";
     }
-
+    @PostMapping("/nottrackedbygit")
+    public String getTracked(){
+        return "Hello singh";
+    }
 }
