@@ -12,11 +12,8 @@ public class DemoApplication {
 
 	public static void main(String[] args){
         SpringApplication.run(DemoApplication.class, args);
-<<<<<<< HEAD
         System.out.println("Application ended");
-=======
         System.out.println("Application Startd");
->>>>>>> de2b3d9586338c8a55d2822a094c2ae98a43f38e
 	}
 
 
